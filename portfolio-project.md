@@ -27,8 +27,8 @@
 >
 > **Do**
 > - Make your project usable/installable!
-> - Be explicit about working directory, where to run command etc
-> - Point the user to any system dependencies needed
+> - Be explicit about what commands to run, which directory to run them, etc.
+> - Point the user to any system dependencies needed.
 >
 > **Consider**
 > - If applicable, add a compiled binary (in the releases page) or link to a
@@ -37,15 +37,15 @@
 ### Usage
 
 > [!NOTE]
-> Add usage instruction for main or basic features here.
+> Add usage instructions for main or basic features here.
 >
 > **Do**
-> - be explicit about the instructions (less assumptions lead to better UX)
-> - point the user to the full documentation of your project
+> - Be explicit about the instructions (less assumptions lead to better UX).
+> - Point the user to the full documentation of your project if any.
 >
 > **Consider**
 > - Add screenshots or GIF walkthroughs (but more detailed/focused than the
->   summary section)
+>   summary section).
 
 ## Tech Stack
 
@@ -56,7 +56,8 @@
 > - Explain the reason for/use of each part of the stack.
 >
 > **Consider**
-> - Add a figure if there are many moving parts.
+> - Add a figure if there are many moving parts. Use an external tool or
+>   [Mermaid](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-mermaid-diagrams).
 
 ## Contributing
 

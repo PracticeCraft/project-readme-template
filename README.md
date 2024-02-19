@@ -10,7 +10,7 @@ remove as you see fit.
 
 ## Getting Started
 
-You need nothing beyond copying the content of [`portfolio-project.md](https://github.com/PracticeCraft/project-readme-template/blob/main/portfolio-project.md)` into your
+You need nothing beyond copying the content of [`portfolio-project.md`](https://github.com/PracticeCraft/project-readme-template/blob/main/portfolio-project.md) into your
 project's `README.md`, which can be done from a terminal by running this
 command in your project's root directory (WARNING: this will replace any
 existing `README.md` in the directory).

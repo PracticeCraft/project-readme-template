@@ -5,6 +5,8 @@
 > - By the time you have added your own content describing the project, you
 >   should have deleted all text wrapped in "Note" alerts including this one
 >   (unless you added some of your own).
+> - For more detailed content, I recommend the [portfolio project lessons on
+>   Boot.dev](https://www.boot.dev/assignments/a8111aa9-c5d5-410e-bae2-19d523be4517)
 
 # Project Name
 

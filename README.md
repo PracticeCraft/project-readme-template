@@ -16,7 +16,7 @@ command in your project's root directory (WARNING: this will replace any
 existing `README.md` in the directory).
 
 ```bash
-curl https://raw.githubusercontent.com/wipdev-tech/project-readme-template/main/portfolio-project.md -o README.md
+curl https://raw.githubusercontent.com/PracticeCraft/project-readme-template/main/portfolio-project.md -o README.md
 ```
 
 ## Contributing
